@@ -1,0 +1,17 @@
+{
+  "name": "hi01tech_10_oop",
+  "version": "1.0.0",
+  "description": "\" An OOP Project bulid with Typescript and Node.js\"",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Haneen I.",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^10.0.1"
+  }
+}
